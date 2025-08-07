@@ -1,5 +1,5 @@
 <!--Banner-->
-![Kiran1689 Banner Image](https://github.com/Kiran1689/kiran1689/blob/main/banner.png)
+![dvlfredysaraujo Banner Image](https://github.com/dvlfredysaraujo/dvlfredysaraujo/blob/main/Banner%20GitHub%20Fredys%20Araujo.png)
 
 <!--Night Owl image-->
 <div>
@@ -7,8 +7,8 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴋɪʀᴀɴ! 
-*Digital Craftsman (Developer / Programmer)*
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Soy Fredys 
+*Desarrollador Back End*
 <br /> 
 
 <!--Start Intro-->               
